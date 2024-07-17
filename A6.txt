@@ -1,0 +1,9 @@
+Ticket information:
+ Row: A 
+ Seat: 6 
+ Price: £150.0 
+ Person Information: 
+ Name: f 
+ Surname: f 
+ Email: f 
+ 
